@@ -23,4 +23,4 @@ while a + b <= 4000000:
         sum += c
 
 print("{}".format(sum))
-# Solution: 4613732l
+# Solution: 4613732

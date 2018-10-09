@@ -9,7 +9,6 @@ primes = [1]
 original = 600851475143
 
 for x in range(1, int(original / 2)):
-    print(x)
     tester = 600851475143
     for prime in primes:
         tester /= prime
@@ -21,5 +20,5 @@ for x in range(1, int(original / 2)):
         primes.append(x)
         original /= x
 
-print("{}".format(primes))
+print("{}".format(primes[len(primes) - 1]))
 # Solution: 6857

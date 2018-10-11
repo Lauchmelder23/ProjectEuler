@@ -8,5 +8,8 @@
 ######################################################################
 
 # Look at Pascal's triangle ;)
+# Every row with an odd amount of number contains the solution to any n-sided grid.
 
-# Solution:
+# This triangle is weird
+
+# Solution: 137846528820

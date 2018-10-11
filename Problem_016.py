@@ -12,4 +12,4 @@ for c in number:
 
 print(sum)
 
-# Solution:
+# Solution: 1366

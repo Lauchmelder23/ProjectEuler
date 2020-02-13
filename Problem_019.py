@@ -42,8 +42,3 @@ while year < endYear:
 
 print(counter)
 # Solution: 171
-    
-        
-
-
-

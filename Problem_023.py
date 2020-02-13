@@ -27,3 +27,4 @@ for i in range(1, 28124):
         final_sum += i
 
 print(final_sum)
+# Solution: 4179871
